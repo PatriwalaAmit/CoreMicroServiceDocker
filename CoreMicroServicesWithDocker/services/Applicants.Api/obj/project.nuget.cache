@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uekd2m6Rl5IMrQglKct7uk7P8AAqax4NAZ65YoZRA4NbtiLbXaNHXYlT0E6qr0CJQN+iG32TzKmRR3isw3N0Ng==",
+  "success": true,
+  "projectFilePath": "D:\\Working_Project_Amit\\CoreMicroServiceDocker\\CoreMicroServiceDocker\\CoreMicroServicesWithDocker\\services\\Applicants.Api\\Applicants.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\indianic\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
